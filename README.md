@@ -1,6 +1,15 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Для каждой функции внутри добавлен комментарий.
+⚙️ Автоматический деплой на GitHub Pages.
+
+При каждом Pull Request в ветку main происходит:
+
+- Автоматическая сборка проекта
+- Запуск тестов (если настроены)
+- Деплой на GitHub Pages
+
+Проверьте деплой по ссылке: [GitHub Pages](https://zanuda-dzmitry.github.io/takeandwake-nuxt-app-test/)
 
 ## Setup
 
@@ -71,5 +80,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
