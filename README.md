@@ -1,12 +1,12 @@
 # Nuxt Minimal Starter
 
 Для каждой функции внутри добавлен комментарий.
+
 ⚙️ Автоматический деплой на GitHub Pages.
 
 При каждом Pull Request в ветку main происходит:
 
 - Автоматическая сборка проекта
-- Запуск тестов (если настроены)
 - Деплой на GitHub Pages
 
 Проверьте деплой по ссылке: [GitHub Pages](https://zanuda-dzmitry.github.io/takeandwake-nuxt-app-test/)
